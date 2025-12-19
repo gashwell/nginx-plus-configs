@@ -1,0 +1,9 @@
+ssl/*.key
+ssl/*.pem
+ssl/*.crt
+!ssl/.gitkeep
+*.json
+*.log
+nginx-repo.crt
+nginx-repo.key
+.DS_Store
